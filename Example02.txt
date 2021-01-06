@@ -1,0 +1,4 @@
+The first string
+This is the second string
+The third string is longer than the second
+And finally the fourth string is the longest string in the document
